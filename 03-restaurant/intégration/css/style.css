@@ -1,0 +1,53 @@
+/*.... header ....*/
+.inlineB{
+  display: inline-block;
+  }
+nav{
+  right:24px;
+  position:absolute;
+  top: 8px;
+}
+li{
+  margin-right: 20px;
+}
+header{
+  position: relative;
+  background-image:url('../img/capture.png');
+  background-size: 382px;
+
+}
+h1{
+  position: relative;
+  top: -16px;
+}
+header img{
+  width: 112px;
+  margin-left:43%;
+  margin-right: auto;
+  display: block;
+  z-index: 1;
+  position: absolute;
+  }
+
+  div{
+    display:block;
+    margin: auto;
+  }
+  #logo{
+    display:block;
+    margin: auto;
+    width:809px;
+    position: relative;
+  }
+#logo div{
+  display: block;
+  margin: auto;
+  width: 0px;
+	height: 241px;
+	border-top: 88px solid #ea5972;
+	border-left: 100px solid transparent;
+  position: absolute;
+}
+#logo img{
+  position:absolute;
+}
